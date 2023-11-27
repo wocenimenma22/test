@@ -1,0 +1,7 @@
+﻿  KMP.c
+D:\新建文件夹 (3)\KMP\KMP\KMP.c(74,20): warning C4133: “函数”: 从“int *”到“const char *”的类型不兼容
+D:\新建文件夹 (3)\KMP\KMP\KMP.c(76,18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  test.c
+D:\新建文件夹 (3)\KMP\KMP\test.c(6,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  KMP.vcxproj -> D:\新建文件夹 (3)\KMP\x64\Debug\KMP.exe

@@ -1,0 +1,14 @@
+﻿  tree.c
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(275,14): warning C4133: “初始化”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(291,20): warning C4133: “=”: 从“QueneNode *”到“QueueNode *”的类型不兼容
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(300,11): warning C4133: “=”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(323,7): warning C4133: “=”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(858,19): warning C4047: “函数”:“int **”与“int *(*)[10]”的间接级别不同
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(858,19): warning C4024: “forpraent”: 形参和实参 3 的类型不同
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(859,19): warning C4047: “函数”:“int **”与“int *(*)[10]”的间接级别不同
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(859,19): warning C4024: “forpraent”: 形参和实参 3 的类型不同
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(868,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(868,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(867,12): warning C4133: “初始化”: 从“int *”到“BiTree”的类型不兼容
+D:\新建文件夹 (3)\tree_test\tree_test\tree.c(912,14): warning C4133: “=”: 从“BiTree”到“int *”的类型不兼容
+  tree_test.vcxproj -> D:\新建文件夹 (3)\tree_test\x64\Debug\tree_test.exe

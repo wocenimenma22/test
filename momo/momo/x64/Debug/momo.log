@@ -1,0 +1,29 @@
+﻿  momo.c
+D:\新建文件夹 (3)\momo\momo\momo.c(283,14): warning C4133: “初始化”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\momo\momo\momo.c(299,20): warning C4133: “=”: 从“QueneNode *”到“QueueNode *”的类型不兼容
+D:\新建文件夹 (3)\momo\momo\momo.c(308,11): warning C4133: “=”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\momo\momo\momo.c(331,7): warning C4133: “=”: 从“QueueNode *”到“QueneNode *”的类型不兼容
+D:\新建文件夹 (3)\momo\momo\momo.c(483,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\新建文件夹 (3)\momo\momo\momo.c(483,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+D:\新建文件夹 (3)\momo\momo\momo.c(572,14): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(575,12): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(579,10): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(599,31): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(676,18): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(678,17): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(702,17): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(713,18): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(718,15): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(718,15): warning C4024: “zhangdatou”: 形参和实参 1 的类型不同
+D:\新建文件夹 (3)\momo\momo\momo.c(718,25): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(718,25): warning C4024: “zhangdatou”: 形参和实参 2 的类型不同
+D:\新建文件夹 (3)\momo\momo\momo.c(722,18): warning C4047: “函数”:“Element”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(722,18): warning C4024: “morebranch”: 形参和实参 2 的类型不同
+D:\新建文件夹 (3)\momo\momo\momo.c(724,19): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(727,15): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(727,15): warning C4024: “zhangdatou”: 形参和实参 1 的类型不同
+D:\新建文件夹 (3)\momo\momo\momo.c(727,26): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(727,26): warning C4024: “zhangdatou”: 形参和实参 2 的类型不同
+D:\新建文件夹 (3)\momo\momo\momo.c(731,18): warning C4047: “函数”:“Element”与“void *”的间接级别不同
+D:\新建文件夹 (3)\momo\momo\momo.c(731,18): warning C4024: “morebranch”: 形参和实参 2 的类型不同
+  momo.vcxproj -> D:\新建文件夹 (3)\momo\x64\Debug\momo.exe
